@@ -1,0 +1,92 @@
+a:11:{s:5:"texte";s:3923:"
+.markItUp .outil_header1 a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/intertitre.png);
+}
+.markItUp .outil_bold a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_bold.png);
+}
+.markItUp .outil_italic a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_italic.png);
+}
+.markItUp .outil_stroke_through a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_strikethrough.png);
+}
+.markItUp .outil_liste_ul a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_list_bullets.png);
+}
+.markItUp .outil_liste_ol a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_list_numbers.png);
+}
+.markItUp .outil_indenter a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_indent.png);
+}
+.markItUp .outil_desindenter a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_indent_remove.png);
+}
+.markItUp .outil_quote a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/quote.png);
+}
+.markItUp .outil_link a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/lien.png);
+}
+.markItUp .outil_notes a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/notes.png);
+}
+.markItUp .outil_guillemets a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/guillemets.png);
+}
+.markItUp .outil_guillemets_simples a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/guillemets-simples.png);
+}
+.markItUp .outil_guillemets_de a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/guillemets-de.png);
+}
+.markItUp .outil_guillemets_de_simples a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/guillemets-uniques-de.png);
+}
+.markItUp .outil_guillemets_uniques a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/guillemets-uniques.png);
+}
+.markItUp .outil_caracteres a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/keyboard.png);
+}
+.markItUp .outil_a_maj_grave a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/agrave-maj.png);
+}
+.markItUp .outil_e_maj_aigu a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/eacute-maj.png);
+}
+.markItUp .outil_e_maj_grave a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/eagrave-maj.png);
+}
+.markItUp .outil_aelig a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/aelig.png);
+}
+.markItUp .outil_aelig_maj a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/aelig-maj.png);
+}
+.markItUp .outil_oe a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/oelig.png);
+}
+.markItUp .outil_oe_maj a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/oelig-maj.png);
+}
+.markItUp .outil_ccedil_maj a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/ccedil-maj.png);
+}
+.markItUp .outil_uppercase a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_uppercase.png);
+}
+.markItUp .outil_lowercase a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/text_lowercase.png);
+}
+.markItUp .outil_clean a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/clean.png);
+}
+.markItUp .outil_preview a {
+	background-image:url(http://127.0.0.1/spip/extensions/porte_plume/icones_barre/eye.png);
+}
+
+/* roue ajax */
+.ajaxLoad{background:white url('http://127.0.0.1/spip/prive/images/searching.gif') top left no-repeat;}
+";s:9:"squelette";s:37:"html_ad4bfd16e6c615761cc1ebfc93e0d75c";s:6:"source";s:54:"../extensions/porte_plume/barre_outils_icones.css.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"8/bar-out-ico-bar-out-ico--ff2b5b5b";}s:7:"entetes";a:3:{s:12:"X-Spip-Cache";s:6:"604800";s:12:"Content-Type";s:23:"text/css; charset=utf-8";s:4:"Vary";s:15:"Accept-Encoding";}s:5:"duree";i:604800;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"page";s:23:"barre_outils_icones.css";s:4:"date";s:19:"2023-05-01 10:33:09";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:09";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937189;s:2:"gz";b:0;}

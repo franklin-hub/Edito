@@ -1,0 +1,14 @@
+a:11:{s:5:"texte";s:700:"
+<div class="pied_bas">
+
+	<?php echo recuperer_fond( 'noisettes/pied/inc_pied_copyright', array('lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/noisettes/pied.html','html_a3b42bf5b3546a28431decc9f2152a77','',4,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	<?php echo recuperer_fond( 'noisettes/pied/inc_pied_outils', array('squelette' => 'plugins/sarkaspip_31/sommaire.html',
+	'lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/noisettes/pied.html','html_a3b42bf5b3546a28431decc9f2152a77','',5,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	
+
+</div>
+
+<!-- SPIP-CRON --><div style="background-image: url('http://127.0.0.1/spip/spip.php?action=cron');"></div>
+";s:9:"squelette";s:37:"html_a3b42bf5b3546a28431decc9f2152a77";s:6:"source";s:40:"plugins/sarkaspip_31/noisettes/pied.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"2/noi-plu-31%2Fso-fr--82d088408ef30";s:7:"session";s:8:"5236a618";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:9:"squelette";s:34:"plugins/sarkaspip_31/sommaire.html";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:07";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:07";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937187;s:2:"gz";b:0;}

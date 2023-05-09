@@ -1,0 +1,164 @@
+May 01 10:01:47 127.0.0.1 (pid 1372) spip_connect: serveur 0 mal defini dans ''.
+May 01 10:15:17 127.0.0.1 (pid 1372) creation tmp/cache/4/
+May 01 10:15:17 127.0.0.1 (pid 1372) COMPIL (139.707 ms) [squelettes-dist/sommaire.html] html_3066a391ddd809c8c3e68ff791f1ae93.php
+May 01 10:15:17 127.0.0.1 (pid 1372) calcul (40.605 ms) [squelettes-dist/sommaire] date='2023-05-01 10:15:17', date_default=1, date_redac='2023-05-01 10:15:17', date_redac_default=1 (1959 octets)
+May 01 10:15:17 127.0.0.1 (pid 1372) Creation du cache 4/%2Fspip%2F--53d473638068e7adee8f9 pour 3600 secondes
+May 01 10:15:17 127.0.0.1 (pid 1372) creation tmp/cache/6/
+May 01 10:15:17 127.0.0.1 (pid 1372) COMPIL (7.801 ms) [squelettes-dist/inc-head.html] html_e9341236dfb9f88599a1193fcf6c15d3.php
+May 01 10:15:17 127.0.0.1 (pid 1372) calcul (39.980 ms) [squelettes-dist/inc-head] lang=fr, date='2023-05-01 10:15:17', date_default=1, date_redac='2023-05-01 10:15:17', date_redac_default=1 (1914 octets)
+May 01 10:15:17 127.0.0.1 (pid 1372) Creation du cache 6/inc-head-fr--f865a0277bbd90e855c4 pour 86400 secondes
+May 01 10:15:18 127.0.0.1 (pid 1372) creation tmp/cache/e/
+May 01 10:15:18 127.0.0.1 (pid 1372) COMPIL (18.873 ms) [squelettes-dist/inc-entete.html] html_dc3dae177a4dedb727d6a881885c7da0.php
+May 01 10:15:18 127.0.0.1 (pid 1372) calcul (11.303 ms) [squelettes-dist/inc-entete] lang=fr, date='2023-05-01 10:15:18', date_default=1, date_redac='2023-05-01 10:15:18', date_redac_default=1 (170 octets)
+May 01 10:15:18 127.0.0.1 (pid 1372) Creation du cache e/inc-entete-fr--51eca4e8de02b78b21 pour 86400 secondes
+May 01 10:15:18 127.0.0.1 (pid 1372) creation tmp/cache/5/
+May 01 10:15:18 127.0.0.1 (pid 1372) COMPIL (12.760 ms) [squelettes-dist/inc-rubriques.html] html_f1aaca8455250cd904efd39ebb352e23.php
+May 01 10:15:18 127.0.0.1 (pid 1372) calcul (1.580 ms) [squelettes-dist/inc-rubriques] lang=fr, date='2023-05-01 10:15:18', date_default=1, date_redac='2023-05-01 10:15:18', date_redac_default=1 (2 octets)
+May 01 10:15:18 127.0.0.1 (pid 1372) Creation du cache 5/inc-rubriques-fr--2630ae36c9c2940 pour 86400 secondes
+May 01 10:15:18 127.0.0.1 (pid 1372) creation tmp/cache/f/
+May 01 10:15:18 127.0.0.1 (pid 1372) COMPIL (1.964 ms) [squelettes-dist/formulaires/recherche.html] html_3f21567892824ca74d105e484c8aa256.php
+May 01 10:15:18 127.0.0.1 (pid 1372) calcul (5.296 ms) [squelettes-dist/formulaires/recherche] action=http://127.0.0.1/spip/spip..., lang=fr, formulaire_args=yecUnpjFzGEY+s+tLlLXiDJI3+W.., form=recherche, id=new, editable=' ', date='2023-05-01 10:15:18', date_default=1, date_redac='2023-05-01 10:15:18', date_redac_default=1 (497 octets)
+May 01 10:15:18 127.0.0.1 (pid 1372) Creation du cache f/for-htt--fr-yec-arr-rec--72fc932b pour 3600 secondes
+May 01 10:15:18 127.0.0.1 (pid 1372) creation tmp/cache/9/
+May 01 10:15:18 127.0.0.1 (pid 1372) COMPIL (14.389 ms) [squelettes-dist/inc-pied.html] html_8a6b0a71d0c36706b8f4a9f332b9e58d.php
+May 01 10:15:18 127.0.0.1 (pid 1372) calcul (3.178 ms) [squelettes-dist/inc-pied] skel=squelettes-dist/sommaire.html, lang=fr, date='2023-05-01 10:15:18', date_default=1, date_redac='2023-05-01 10:15:18', date_redac_default=1 (1128 octets)
+May 01 10:15:18 127.0.0.1 (pid 1372) Creation cache sessionne 9/inc-pie-squ-dis-fr--c0da6bb4ddd3c
+May 01 10:15:18 127.0.0.1 (pid 1372) Creation du cache 9/inc-pie-squ-dis-fr--c0da6bb4ddd3c_5236a618 pour 86400 secondes
+May 01 10:15:20 127.0.0.1 (pid 1372) creation tmp/cache/8/
+May 01 10:15:20 127.0.0.1 (pid 1372) calcul (24.304 ms) [extensions/porte_plume/barre_outils_icones.css] page=barre_outils_icones.css, date='2023-05-01 10:15:20', date_default=1, date_redac='2023-05-01 10:15:20', date_redac_default=1 (3923 octets)
+May 01 10:15:20 127.0.0.1 (pid 1372) calcul (38.933 ms) [extensions/porte_plume/porte_plume_start.js] page=porte_plume_start.js, lang=fr, date='2023-05-01 10:15:20', date_default=1, date_redac='2023-05-01 10:15:20', date_redac_default=1 (12354 octets)
+May 01 10:15:20 127.0.0.1 (pid 1372) Creation du cache 8/bar-out-ico-bar-out-ico--ff2b5b5b pour 604800 secondes
+May 01 10:15:20 127.0.0.1 (pid 1372) Creation du cache 6/por-plu-sta-por-plu-sta--5246990d pour 604800 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (49.479 ms) [plugins/sarkaspip_31/sommaire.html] html_799082292937e4381845170b230f1f58.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (33.815 ms) [plugins/sarkaspip_31/sommaire] date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (2180 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 4/%2Fspip%2F--53d473638068e7adee8f9 pour 7200 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (12.229 ms) [plugins/sarkaspip_31/noisettes/inc_header.html] html_a932c69e63bc4357b31f12f1a366719c.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (37.238 ms) [plugins/sarkaspip_31/noisettes/inc_header] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (2983 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 8/noi-hea-fr--49a7c7e80a665ec8b6b85 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (3.623 ms) [plugins/sarkaspip_31/noisettes/bandeau.html] html_5f763dea96c8fa4ffb3c432752ce86b6.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (1.996 ms) [plugins/sarkaspip_31/noisettes/bandeau] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (562 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 9/noisettes%2Fbandeau-fr--57e9dac63 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) creation tmp/cache/d/
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (14.886 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_haut.html] html_a5d07de243db5d50c02967672c708f98.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (12.006 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_haut] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (672 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache d/noi-ban-hau--fr--ff64ac181930d6c4 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (3.434 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_langues.html] html_8dec002ab327466b85ce98c7ef6edf9a.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (8.865 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_langues] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (2 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 8/noi-ban-lan-fr--a8288585a9182db17 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (25.067 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_chemin.html] html_4c086128d8d98f648b5847dcd60a9098.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (7.357 ms) [plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_chemin] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (622 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 5/noi-ban-che--fr--fa7aaa30b6deb048 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (7.737 ms) [squelettes-dist/formulaires/recherche] action=http://127.0.0.1/spip/spip..., lang=fr, formulaire_args=yecUnpjFzGEY+s+tLlLXiDJI3+W.., form=recherche, id=new, editable=' ', date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (497 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache f/for-htt--fr-yec-arr-rec--72fc932b pour 3600 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (23.668 ms) [plugins/sarkaspip_31/noisettes/navigation.html] html_c2824675f79f3bdcbb29490f10160749.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (3.212 ms) [plugins/sarkaspip_31/noisettes/navigation] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (1452 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 2/noi-fr--ad3b2e2401d01023276a5cb7d pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (20.091 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_rubriques_1.html] html_c0e576a4b132158e62c3fd769868e3ce.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (3.181 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_rubriques_1] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (0 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache d/noi-men-rub-1--fr--83839d3028d94e pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (54.702 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_pages_speciales.html] html_c211a996d6566119908588b2ce9a0528.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (10.985 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_pages_speciales] position=navigation, lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (23 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache f/noi-men-pag-spe-nav-fr--1fe8bd59a pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (27.190 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_formulaires.html] html_adf45ba4d3675a0e6f5b8dba54f5568b.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (4.104 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_formulaires] position=navigation, lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (978 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation cache sessionne 8/noi-men-for--nav-fr--b9e347e68c0f
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 8/noi-men-for--nav-fr--b9e347e68c0f_5236a618 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (25.272 ms) [plugins/sarkaspip_31/noisettes/statistiques/inc_stats_site.html] html_9898ec8efdfe3c89a7af496321f34819.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (14.656 ms) [plugins/sarkaspip_31/noisettes/statistiques/inc_stats_site] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (712 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation cache sessionne 4/noi-sta-sit-fr--a1caf517eae6e6f9e
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 4/noi-sta-sit-fr--a1caf517eae6e6f9e_5236a618 pour 60 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (4.503 ms) [plugins/sarkaspip_31/noisettes/inc_badges.html] html_f280eb2f2c53bf58267d57cf66af9aff.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (1.029 ms) [plugins/sarkaspip_31/noisettes/inc_badges] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (123 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation cache sessionne 2/noi-bad-fr--78c2210eaff334ef7544e
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 2/noi-bad-fr--78c2210eaff334ef7544e_5236a618 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (38.221 ms) [plugins/sarkaspip_31/noisettes/extra.html] html_48b5ac5a248e361f00d8d35ea24df59c.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (5.447 ms) [plugins/sarkaspip_31/noisettes/extra] date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1, page=sommaire, self=./, lang=fr (920 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation cache sessionne f/noi-2023_05_01%2010%3A-1-480acd43
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache f/noi-2023_05_01%2010%3A-1-480acd43_5236a618 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) creation tmp/cache/0/
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (7.258 ms) [plugins/sarkaspip_31/noisettes/recherche/inc_recherche.html] html_e24d582e83a8e25855fa453443703690.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (1.598 ms) [plugins/sarkaspip_31/noisettes/recherche/inc_recherche] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (397 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 0/noi-rec-fr--d1bc66a2f5ff6f23bb165 pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (0.950 ms) [plugins/sarkaspip_31/noisettes/recherche/inc_recherche_exalead.html] html_06849b6b0c5bc41296dab8f5c1f80c1e.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (2.011 ms) [plugins/sarkaspip_31/noisettes/recherche/inc_recherche_exalead] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (820 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 8/noi-rec-exa-fr--fa38be34b988f8f0b pour 86400 secondes
+May 01 10:33:06 127.0.0.1 (pid 1372) COMPIL (5.581 ms) [plugins/sarkaspip_31/noisettes/breve/inc_breves_recentes.html] html_b472df89af5bfcd85c37794544b4fd23.php
+May 01 10:33:06 127.0.0.1 (pid 1372) calcul (3.548 ms) [plugins/sarkaspip_31/noisettes/breve/inc_breves_recentes] lang=fr, date='2023-05-01 10:33:06', date_default=1, date_redac='2023-05-01 10:33:06', date_redac_default=1 (4 octets)
+May 01 10:33:06 127.0.0.1 (pid 1372) Creation du cache 6/noi-bre-rec--fr--c13ae3aaf84a4a69 pour 86400 secondes
+May 01 10:33:07 127.0.0.1 (pid 1372) COMPIL (5.500 ms) [plugins/sarkaspip_31/noisettes/site/inc_sites_recents_2.html] html_ec8530c2ebf186114b83fa2868f4f39e.php
+May 01 10:33:07 127.0.0.1 (pid 1372) calcul (3.528 ms) [plugins/sarkaspip_31/noisettes/site/inc_sites_recents_2] lang=fr, date='2023-05-01 10:33:07', date_default=1, date_redac='2023-05-01 10:33:07', date_redac_default=1 (2 octets)
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation du cache 2/noi-sit-rec-2--fr--df35456f020a75 pour 86400 secondes
+May 01 10:33:07 127.0.0.1 (pid 1372) COMPIL (3.407 ms) [plugins/sarkaspip_31/noisettes/pied.html] html_a3b42bf5b3546a28431decc9f2152a77.php
+May 01 10:33:07 127.0.0.1 (pid 1372) calcul (1.604 ms) [plugins/sarkaspip_31/noisettes/pied] squelette=plugins/sarkaspip_31/sommai.., lang=fr, date='2023-05-01 10:33:07', date_default=1, date_redac='2023-05-01 10:33:07', date_redac_default=1 (700 octets)
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation cache sessionne 2/noi-plu-31%2Fso-fr--82d088408ef30
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation du cache 2/noi-plu-31%2Fso-fr--82d088408ef30_5236a618 pour 86400 secondes
+May 01 10:33:07 127.0.0.1 (pid 1372) creation tmp/cache/a/
+May 01 10:33:07 127.0.0.1 (pid 1372) COMPIL (12.015 ms) [plugins/sarkaspip_31/noisettes/pied/inc_pied_copyright.html] html_8f11b57c2969a0b02c1e9b71eb0f31b6.php
+May 01 10:33:07 127.0.0.1 (pid 1372) calcul (3.610 ms) [plugins/sarkaspip_31/noisettes/pied/inc_pied_copyright] lang=fr, date='2023-05-01 10:33:07', date_default=1, date_redac='2023-05-01 10:33:07', date_redac_default=1 (15 octets)
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation du cache a/noi-pie-cop-fr--7717f512c0e290df6 pour 86400 secondes
+May 01 10:33:07 127.0.0.1 (pid 1372) COMPIL (27.701 ms) [plugins/sarkaspip_31/noisettes/pied/inc_pied_outils.html] html_cfe9bcf43d22e24d56b33ca5923f2afb.php
+May 01 10:33:07 127.0.0.1 (pid 1372) calcul (3.782 ms) [plugins/sarkaspip_31/noisettes/pied/inc_pied_outils] squelette=plugins/sarkaspip_31/sommai.., lang=fr, date='2023-05-01 10:33:07', date_default=1, date_redac='2023-05-01 10:33:07', date_redac_default=1 (994 octets)
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation du cache 2/noi-pie-out-plu-31%2Fso--63d77685 pour 86400 secondes
+May 01 10:33:07 127.0.0.1 (pid 1372) trouver_table: table inconnue '' 'POUR'
+May 01 10:33:07 127.0.0.1 (pid 1372) COMPIL (13.278 ms) [plugins/zen-garden/inclure/zengarden_switcher.html] html_7173524966a718c865899199bfb68b56.php
+May 01 10:33:07 127.0.0.1 (pid 1372) calcul (10.829 ms) [plugins/zen-garden/inclure/zengarden_switcher] lang=fr, date='2023-05-01 10:33:07', date_default=1, date_redac='2023-05-01 10:33:07', date_redac_default=1 (604 octets)
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation cache sessionne 1/inc-swi-fr--bde5c37284d2768e4e875
+May 01 10:33:07 127.0.0.1 (pid 1372) Creation du cache 1/inc-swi-fr--bde5c37284d2768e4e875_5236a618 pour 86400 secondes
+May 01 10:33:09 127.0.0.1 (pid 1372) creation tmp/cache/c/
+May 01 10:33:09 127.0.0.1 (pid 1372) calcul (71.260 ms) [extensions/porte_plume/porte_plume_start.js] page=porte_plume_start.js, lang=fr, date='2023-05-01 10:33:09', date_default=1, date_redac='2023-05-01 10:33:09', date_redac_default=1 (12354 octets)
+May 01 10:33:09 127.0.0.1 (pid 1372) Creation du cache 8/bar-out-ico-bar-out-ico--ff2b5b5b pour 604800 secondes
+May 01 10:33:09 127.0.0.1 (pid 1372) Creation du cache 6/por-plu-sta-por-plu-sta--5246990d pour 604800 secondes
+May 01 10:33:09 127.0.0.1 (pid 1372) COMPIL (4.986 ms) [plugins/sarkaspip_31/style.css.html] html_004806600dcd491c584a5f9b6a54f6d4.php
+May 01 10:33:09 127.0.0.1 (pid 1372) calcul (2.278 ms) [plugins/sarkaspip_31/style.css] page=style.css, date='2023-05-01 10:33:09', date_default=1, date_redac='2023-05-01 10:33:09', date_redac_default=1 (1344 octets)
+May 01 10:33:09 127.0.0.1 (pid 1372) Creation du cache c/sty-sty--8a450eecfc6287707a65e9bf pour 604800 secondes
+May 01 10:33:09 127.0.0.1 (pid 1372) charset probable: utf-8
+May 01 10:33:09 127.0.0.1 (pid 1372) COMPIL (27.607 ms) [plugins/sarkaspip_31/css/base.css.html] html_a20e74cfe881a5142cb3331d1bb1db5f.php
+May 01 10:33:09 127.0.0.1 (pid 1372) calcul (21.443 ms) [plugins/sarkaspip_31/css/base.css] lang=fr, date='2023-05-01 10:33:09', date_default=1, date_redac='2023-05-01 10:33:09', date_redac_default=1 (12727 octets)
+May 01 10:33:09 127.0.0.1 (pid 1372) Creation du cache 1/css%2Fbase.css-fr--d611f0ab33c5b5 pour 86400 secondes
+May 01 10:33:09 127.0.0.1 (pid 1372) COMPIL (32.200 ms) [plugins/sarkaspip_31/css/layout.css.html] html_b013140dddbd102eba3582dde02d7923.php
+May 01 10:33:09 127.0.0.1 (pid 1372) calcul (4.849 ms) [plugins/sarkaspip_31/css/layout.css] lang=fr, date='2023-05-01 10:33:09', date_default=1, date_redac='2023-05-01 10:33:09', date_redac_default=1 (1164 octets)
+May 01 10:33:09 127.0.0.1 (pid 1372) Creation du cache 6/css%2Flayout.css-fr--84ba76064fbe pour 86400 secondes
+May 01 10:33:10 127.0.0.1 (pid 1372) COMPIL (12.495 ms) [plugins/sarkaspip_31/css/bandeau.css.html] html_f667c5e43ff3232bc6f1076844d605f9.php
+May 01 10:33:10 127.0.0.1 (pid 1372) calcul (7.497 ms) [plugins/sarkaspip_31/css/bandeau.css] lang=fr, date='2023-05-01 10:33:10', date_default=1, date_redac='2023-05-01 10:33:10', date_redac_default=1 (4149 octets)
+May 01 10:33:10 127.0.0.1 (pid 1372) Creation du cache 6/css%2Fbandeau.css-fr--968948757df pour 86400 secondes
+May 01 10:33:10 127.0.0.1 (pid 1372) charset probable: utf-8
+May 01 10:33:10 127.0.0.1 (pid 1372) COMPIL (94.209 ms) [plugins/sarkaspip_31/css/noisettes.css.html] html_c250f17f58bbf6ca5d13380bc5d70649.php
+May 01 10:33:10 127.0.0.1 (pid 1372) calcul (38.235 ms) [plugins/sarkaspip_31/css/noisettes.css] lang=fr, date='2023-05-01 10:33:10', date_default=1, date_redac='2023-05-01 10:33:10', date_redac_default=1 (15711 octets)
+May 01 10:33:10 127.0.0.1 (pid 1372) Creation du cache 9/css%2Fnoisettes.css-fr--bf3a25102 pour 86400 secondes
+May 01 10:33:10 127.0.0.1 (pid 1372) creation tmp/cache/3/
+May 01 10:33:10 127.0.0.1 (pid 1372) COMPIL (52.339 ms) [plugins/sarkaspip_31/css/elements.css.html] html_b2b3c3816baf8925a2ebefa397cbc44b.php
+May 01 10:33:10 127.0.0.1 (pid 1372) calcul (30.563 ms) [plugins/sarkaspip_31/css/elements.css] lang=fr, date='2023-05-01 10:33:10', date_default=1, date_redac='2023-05-01 10:33:10', date_redac_default=1 (18753 octets)
+May 01 10:33:10 127.0.0.1 (pid 1372) Creation du cache 3/css%2Felements.css-fr--39ea53c321 pour 86400 secondes
+May 01 10:33:10 127.0.0.1 (pid 1372) COMPIL (7.721 ms) [plugins/sarkaspip_31/css/ie.css.html] html_df986919d2b438167ef8b69fab219192.php
+May 01 10:33:10 127.0.0.1 (pid 1372) calcul (1.160 ms) [plugins/sarkaspip_31/css/ie.css] lang=fr, date='2023-05-01 10:33:10', date_default=1, date_redac='2023-05-01 10:33:10', date_redac_default=1 (4722 octets)
+May 01 10:33:10 127.0.0.1 (pid 1372) Creation du cache e/css%2Fie.css-fr--1e7fa46f1f94d990 pour 604800 secondes
+May 02 09:32:23 127.0.0.1 (pid 1372) COMPIL (138.504 ms) [plugins/sarkaspip_31/login.html] html_e1b77dc3e3c206e4db994b691149af37.php
+May 02 09:32:23 127.0.0.1 (pid 1372) calcul (105.522 ms) [plugins/sarkaspip_31/login] page=login, url=/spip/ecrire/, lang=fr, date='2023-05-02 09:32:23', date_default=1, date_redac='2023-05-02 09:32:23', date_redac_default=1 (3327 octets)
+May 02 09:32:23 127.0.0.1 (pid 1372) Creation du cache 4/log-log-%2Fsp-fr--a085fb0db671d65 pour 86400 secondes
+May 02 09:32:23 127.0.0.1 (pid 1372) calcul (193.538 ms) [plugins/sarkaspip_31/noisettes/inc_header] meta_titre='Acc&eacute;der &agrave; l'e..', lang=fr, date='2023-05-02 09:32:23', date_default=1, date_redac='2023-05-02 09:32:23', date_redac_default=1 (3031 octets)
+May 02 09:32:23 127.0.0.1 (pid 1372) Creation du cache c/noi-hea-Acc-fr--34a4e624322378795 pour 86400 secondes
+May 02 09:32:23 127.0.0.1 (pid 1372) calcul (29.211 ms) [squelettes-dist/formulaires/recherche] action=http://127.0.0.1/spip/spip..., lang=fr, formulaire_args=yecUnpjFzGEY+s+tLlLXiDJI3+W.., form=recherche, id=new, editable=' ', date='2023-05-02 09:32:23', date_default=1, date_redac='2023-05-02 09:32:23', date_redac_default=1 (497 octets)
+May 02 09:32:23 127.0.0.1 (pid 1372) Creation du cache f/for-htt--fr-yec-arr-rec--72fc932b pour 3600 secondes
+May 02 09:32:24 127.0.0.1 (pid 1372) COMPIL (2.515 ms) [plugins/sarkaspip_31/formulaires/menu_lang.html] html_e3a7ebabbeeb7f68114d548d2e192ccb.php
+May 02 09:32:24 127.0.0.1 (pid 1372) calcul (4.560 ms) [plugins/sarkaspip_31/formulaires/menu_lang] nom=var_lang_ecrire, url=http://127.0.0.1/spip/spip..., langues='<option class='maj-debut' v..', lang=fr, date='2023-05-02 09:32:24', date_default=1, date_redac='2023-05-02 09:32:24', date_redac_default=1 (3939 octets)
+May 02 09:32:24 127.0.0.1 (pid 1372) Creation du cache 0/for-lan-var-lan-ecr-htt--6d4c6726 pour 3600 secondes
+May 02 09:32:24 127.0.0.1 (pid 1372) creation tmp/cache/7/
+May 02 09:32:24 127.0.0.1 (pid 1372) COMPIL (26.468 ms) [prive/formulaires/login.html] html_7550782a6a47af1a0b988013b589800d.php
+May 02 09:32:24 127.0.0.1 (pid 1372) calcul (7.138 ms) [prive/formulaires/login] editable=' ', rester_connecte=' ', _pipeline=affiche_formulaire_login, formulaire_args=2eaUndzVyKWdmcUAf7HTidVYlbn.., action=/spip/spip.php?page=login&a.., form=login, id=new, lang=fr, date='2023-05-02 09:32:24', date_default=1, date_redac='2023-05-02 09:32:24', date_redac_default=1 (1696 octets)
+May 02 09:32:24 127.0.0.1 (pid 1372) Creation du cache 7/for--%20---%20----aff-fo-988dd7c4 pour 3600 secondes
+May 02 09:32:24 127.0.0.1 (pid 1372) calcul (54.379 ms) [plugins/sarkaspip_31/noisettes/navigation/inc_menu_formulaires] position=navigation, lang=fr, date='2023-05-02 09:32:24', date_default=1, date_redac='2023-05-02 09:32:24', date_redac_default=1 (233 octets)
+May 02 09:32:24 127.0.0.1 (pid 1372) Creation du cache 8/noi-men-for--nav-fr--b9e347e68c0f_ pour 86400 secondes
+May 02 09:32:24 127.0.0.1 (pid 1372) calcul (84.514 ms) [plugins/sarkaspip_31/noisettes/statistiques/inc_stats_site] lang=fr, date='2023-05-02 09:32:24', date_default=1, date_redac='2023-05-02 09:32:24', date_redac_default=1 (712 octets)
+May 02 09:32:24 127.0.0.1 (pid 1372) Creation du cache 4/noi-sta-sit-fr--a1caf517eae6e6f9e_ pour 60 secondes
+May 02 09:32:24 127.0.0.1 (pid 1372) calcul (1.437 ms) [plugins/sarkaspip_31/noisettes/inc_badges] lang=fr, date='2023-05-02 09:32:24', date_default=1, date_redac='2023-05-02 09:32:24', date_redac_default=1 (123 octets)
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation du cache 2/noi-bad-fr--78c2210eaff334ef7544e_ pour 86400 secondes
+May 02 09:32:25 127.0.0.1 (pid 1372) calcul (7.596 ms) [plugins/sarkaspip_31/noisettes/extra] page=login, url=/spip/ecrire/, lang=fr, date='2023-05-02 09:32:23', date_default=1, date_redac='2023-05-02 09:32:23', date_redac_default=1, self=spip.php?page=login&amp;url.. (920 octets)
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation cache sessionne c/noi-log-%2Fsp-fr-2023_05-4d13225f
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation du cache c/noi-log-%2Fsp-fr-2023_05-4d13225f_ pour 86400 secondes
+May 02 09:32:25 127.0.0.1 (pid 1372) calcul (1.566 ms) [plugins/sarkaspip_31/noisettes/pied] squelette=plugins/sarkaspip_31/login..., lang=fr, date='2023-05-02 09:32:25', date_default=1, date_redac='2023-05-02 09:32:25', date_redac_default=1 (697 octets)
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation cache sessionne d/noi-plu-31%2Flo-fr--53ca51e16dd65
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation du cache d/noi-plu-31%2Flo-fr--53ca51e16dd65_ pour 86400 secondes
+May 02 09:32:25 127.0.0.1 (pid 1372) calcul (4.362 ms) [plugins/sarkaspip_31/noisettes/pied/inc_pied_outils] squelette=plugins/sarkaspip_31/login..., lang=fr, date='2023-05-02 09:32:25', date_default=1, date_redac='2023-05-02 09:32:25', date_redac_default=1 (988 octets)
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation du cache 2/noi-pie-out-plu-31%2Flo--40a3016b pour 86400 secondes
+May 02 09:32:25 127.0.0.1 (pid 1372) calcul (230.842 ms) [plugins/zen-garden/inclure/zengarden_switcher] lang=fr, date='2023-05-02 09:32:25', date_default=1, date_redac='2023-05-02 09:32:25', date_redac_default=1 (604 octets)
+May 02 09:32:25 127.0.0.1 (pid 1372) Creation du cache 1/inc-swi-fr--bde5c37284d2768e4e875_ pour 86400 secondes

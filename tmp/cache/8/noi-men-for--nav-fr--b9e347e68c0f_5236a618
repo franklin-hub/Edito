@@ -1,0 +1,38 @@
+a:11:{s:5:"texte";s:978:" 
+	
+
+<div id="nav_visiteur" class="noisette nav2">
+	<ul>
+		
+		 
+			
+		
+		
+		
+		
+		
+		
+		 
+			
+			
+			<li class="raccourci_nav1"><a href="<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/url_logout.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_URL_LOGOUT_dyn(''), array('plugins/sarkaspip_31/noisettes/navigation/inc_menu_formulaires.html', 'html_adf45ba4d3675a0e6f5b8dba54f5568b', '', 13, 'fr'));
+if ($lang_select) lang_select();
+?>">Deconnexion</a></li>
+			 
+				<li class="raccourci_nav1"><a href="http://127.0.0.1/spip/ecrire/">Espace&nbsp;priv&eacute;</a></li>
+			
+			 
+				
+			
+		</ul>
+		<ul>
+			<li class="auteur" title="Bonjour, cher(&egrave;re)&nbsp;administrateur(trice)"><a href="http://127.0.0.1/spip/spip.php?page=auteur&amp;id_auteur=1">fotso manuella</a>&nbsp;&nbsp;<img src="prive/images/admin-12.gif" alt="Bonjour, cher(&egrave;re)&nbsp;administrateur(trice)" /></li>
+			
+			
+		</ul>	
+		
+</div>
+";s:9:"squelette";s:37:"html_adf45ba4d3675a0e6f5b8dba54f5568b";s:6:"source";s:67:"plugins/sarkaspip_31/noisettes/navigation/inc_menu_formulaires.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"8/noi-men-for--nav-fr--b9e347e68c0f";s:7:"session";s:8:"5236a618";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:11:"id_rubrique";s:0:"";s:8:"position";s:10:"navigation";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937186;s:2:"gz";b:0;}

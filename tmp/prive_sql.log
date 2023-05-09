@@ -1,0 +1,418 @@
+May 01 10:03:42 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:42 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:42 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:42 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:43 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:44 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin'
+
+SELECT *
+FROM meta
+WHERE nom='plugin'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+
+DELETE FROM meta
+WHERE nom='message_crash_plugins'
+May 01 10:03:45 127.0.0.1 (pid 1372) Erreur 1146 de sql: Table 'spip_cms.meta' doesn't exist
+SELECT *
+FROM meta
+WHERE nom='plugin_header'
+
+SELECT *
+FROM meta
+WHERE nom='plugin_header'

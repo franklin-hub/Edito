@@ -1,0 +1,73 @@
+a:11:{s:5:"texte";s:3327:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+	<?php echo recuperer_fond( 'noisettes/inc_header', array('meta_titre' => 'Acc&eacute;der &agrave; l\'espace priv&eacute;',
+	'lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/login.html','html_e1b77dc3e3c206e4db994b691149af37','',4,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+<body dir="ltr">
+<div id="container">
+
+	<div id="header">
+		
+		<?php echo recuperer_fond( 'noisettes/bandeau', array('lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/login.html','html_e1b77dc3e3c206e4db994b691149af37','',12,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>
+	
+	<div id="wrapper">
+		<div id="content">
+			<div id="login_prive" class="formulaire">
+				<div class="titre"><h1>Acc&eacute;der &agrave; l'espace priv&eacute;</h1></div>
+				
+				<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/menu_lang_ecrire.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_MENU_LANG_ECRIRE_dyn('fr'), array('plugins/sarkaspip_31/login.html', 'html_e1b77dc3e3c206e4db994b691149af37', '', 20, 'fr'));
+if ($lang_select) lang_select();
+?>
+				<?php 
+include_once("./" . _DIR_RACINE . "ecrire/balise/login_prive.php");
+if ($lang_select = "fr") $lang_select = lang_select($lang_select);
+inserer_balise_dynamique(balise_LOGIN_PRIVE_dyn('/spip/ecrire/', ''), array('plugins/sarkaspip_31/login.html', 'html_e1b77dc3e3c206e4db994b691149af37', '', 0, 'fr'));
+if ($lang_select) lang_select();
+?>
+				<p style="text-align: center;">
+					
+					&#91;<a href="http://127.0.0.1/spip/spip.php?page=spip_pass" target="spip_pass" onclick="javascript:window.open(this.href, 'spip_pass', 'scrollbars=yes, resizable=yes, width=480, height=330'); return false;">mot&nbsp;de&nbsp;passe&nbsp;oubli&eacute;&nbsp;?</a>&#93;
+					&#91;<a href="http://127.0.0.1/spip/">retour&nbsp;au&nbsp;site&nbsp;public</a>&#93;
+				</p>
+			</div>
+		</div><!--content-->
+	</div><!--wrapper-->
+	
+	<div id="navigation">
+		
+		<?php echo recuperer_fond( 'noisettes/navigation', array('lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/login.html','html_e1b77dc3e3c206e4db994b691149af37','',28,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>  <!--navigation-->
+	
+	<div id="extra">
+			
+		<?php echo recuperer_fond( 'noisettes/extra', array_merge(array (
+  'page' => 'login',
+  'url' => '/spip/ecrire/',
+  'lang' => 'fr',
+  'date' => '2023-05-02 09:32:23',
+  'date_default' => true,
+  'date_redac' => '2023-05-02 09:32:23',
+  'date_redac_default' => true,
+),array('self' => 'spip.php?page=login&amp;url=%2Fspip%2Fecrire%2F',
+	'lang' => 'fr')), array("compil"=>array('plugins/sarkaspip_31/login.html','html_e1b77dc3e3c206e4db994b691149af37','',33,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>
+	
+	<div id="footer">
+		
+		<?php echo recuperer_fond( 'noisettes/pied', array('squelette' => 'plugins/sarkaspip_31/login.html',
+	'lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/login.html','html_e1b77dc3e3c206e4db994b691149af37','',38,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+	</div>  <!--footer-->
+
+</div>
+</body>
+</html>
+";s:9:"squelette";s:37:"html_e1b77dc3e3c206e4db994b691149af37";s:6:"source";s:31:"plugins/sarkaspip_31/login.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"4/log-log-%2Fsp-fr--a085fb0db671d65";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";s:5:"86400";}s:5:"duree";i:86400;s:5:"notes";s:0:"";s:8:"contexte";a:7:{s:4:"page";s:5:"login";s:3:"url";s:13:"/spip/ecrire/";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-02 09:32:23";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-02 09:32:23";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1683019943;s:2:"gz";b:0;}

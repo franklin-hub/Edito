@@ -1,0 +1,17 @@
+a:11:{s:5:"texte";s:562:"
+ 
+	<?php echo recuperer_fond( 'noisettes/bandeau/inc_bandeau_haut', array('id_rubrique' => '',
+	'lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/noisettes/bandeau.html','html_5f763dea96c8fa4ffb3c432752ce86b6','',3,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+
+
+
+
+
+ 
+	<?php echo recuperer_fond( 'noisettes/bandeau/inc_bandeau_chemin', array('id_rubrique' => '',
+	'lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/noisettes/bandeau.html','html_5f763dea96c8fa4ffb3c432752ce86b6','',9,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+
+";s:9:"squelette";s:37:"html_5f763dea96c8fa4ffb3c432752ce86b6";s:6:"source";s:43:"plugins/sarkaspip_31/noisettes/bandeau.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"9/noisettes%2Fbandeau-fr--57e9dac63";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937186;s:2:"gz";b:0;}

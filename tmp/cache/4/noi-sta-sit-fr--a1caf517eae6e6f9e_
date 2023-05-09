@@ -1,0 +1,34 @@
+a:11:{s:5:"texte";s:712:"
+<div id="noisette_statistiques" class="noisette">
+	<h1 class="intitule">Statistiques</h1>
+	<div class="contenu">
+		
+			<h2 class="titre_bloc">Derni&egrave;re mise &agrave; jour</h2>
+			<div class="texte">aujourd'hui</div>
+		
+	</div>
+
+	<div class="contenu">
+		<h2 class="titre_bloc">Publication</h2>
+		<div class="texte">
+			Aucun article<br />
+			Aucun album photo<br />
+			Aucune br&egrave;ve<br />
+			Aucun site<br />
+			  
+				1 Auteur<br />
+		</div>
+	</div>
+	
+	<div class="contenu">
+		<h2 class="titre_bloc">Visites</h2>
+		<div class="texte">
+			0&nbsp;aujourd'hui<br />
+			0&nbsp;hier<br />
+			0&nbsp;depuis le d&eacute;but<br />
+			 Aucun visiteur actuellement connect&eacute;
+			
+		</div>
+	</div>
+</div>
+";s:9:"squelette";s:37:"html_9898ec8efdfe3c89a7af496321f34819";s:6:"source";s:63:"plugins/sarkaspip_31/noisettes/statistiques/inc_stats_site.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:2:{s:5:"cache";s:35:"4/noi-sta-sit-fr--a1caf517eae6e6f9e";s:7:"session";s:0:"";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";s:2:"60";}s:5:"duree";i:60;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-02 09:32:24";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-02 09:32:24";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1683019944;s:2:"gz";b:0;}

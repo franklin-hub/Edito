@@ -1,0 +1,29 @@
+a:11:{s:5:"texte";s:672:"
+<div class="bandeau_haut">	
+	
+	<div class="nav_bandeau">  
+    	<!-- Navigation dans les langues -->
+		 
+			<?php echo recuperer_fond( 'noisettes/bandeau/inc_bandeau_langues', array('lang' => 'fr'), array("compil"=>array('plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_haut.html','html_a5d07de243db5d50c02967672c708f98','',6,$GLOBALS['spip_lang'])), _request("connect"));
+?>
+		
+        <!-- Navigation dans les raccourcis -->
+		
+        <!-- Navigation dans les raccourcis -->
+		
+	</div>
+	
+	 
+		
+	
+	
+	<div class="site_nom">
+		 
+		   <h1><a href="http://127.0.0.1/spip" title="Accueil du site">Mon site SPIP</a></h1>
+		
+	   
+	</div>
+	<br class="nettoyeur" />
+	
+</div>
+";s:9:"squelette";s:37:"html_a5d07de243db5d50c02967672c708f98";s:6:"source";s:60:"plugins/sarkaspip_31/noisettes/bandeau/inc_bandeau_haut.html";s:11:"process_ins";s:3:"php";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"d/noi-ban-hau--fr--ff64ac181930d6c4";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:6:{s:11:"id_rubrique";s:0:"";s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937186;s:2:"gz";b:0;}

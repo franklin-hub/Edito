@@ -1,0 +1,36 @@
+a:11:{s:5:"texte";s:1164:"/* LAYOUT.CSS                                                           */
+/* Cette feuille contient:                                              */
+/* - les styles de surcharge des layout Gala pour le squelette          */
+/* -------------------------------------------------------------------- */
+
+/* Correspond a une taille de 16px dans la plupart des navigateurs */
+html {font-size: 100%;}
+/* correspond a une taille de 10px car 10px/16px = 0,625 */
+body {
+	padding: 0; 
+	font: 0.625em/1em Helvetica,Verdana,Arial,sans-serif; 
+	color: #000000;
+	background: #ffffff;
+}
+
+#header {padding: 0 0 10px;}
+div#header h1{margin: 0; padding-left: 0; height: auto; line-height: 1.12em; color: transparent; background: none;}
+div#footer{padding: 30px 0 0; color: transparent; background: none; line-height: 1.12em;}
+div#navigation{width: 180px; background: none;}
+div#extra{width:180px; background: none;} 
+div#container{background: #ffffff; 
+}  
+
+/* Pour les layouts a largeur variable*/
+ 
+	div#navigation{padding: 0 20px;}
+	div#extra{padding: 0 20px;}
+	#content {padding: 0 20px;}
+
+
+/* Pour les layouts a largeur fixe 3 colonnes*/
+
+
+/* Pour les layouts a 2 colonnes*/
+
+";s:9:"squelette";s:37:"html_b013140dddbd102eba3582dde02d7923";s:6:"source";s:40:"plugins/sarkaspip_31/css/layout.css.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"6/css%2Flayout.css-fr--84ba76064fbe";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:09";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:09";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937189;s:2:"gz";b:0;}

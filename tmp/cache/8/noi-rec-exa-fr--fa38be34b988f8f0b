@@ -1,0 +1,19 @@
+a:11:{s:5:"texte";s:820:"<div class="nav_recherche contenu ">
+	<h2 class="titre_bloc">sur le web</h2>
+	<a href="http://www.exalead.com/search"><img class="moteur" src="plugins/sarkaspip_31/images/logo-exalead.gif" alt="Exalead" /></a>
+	<div class="formulaire_spip formulaire_recherche" id="exalead">
+		
+		<form method="get" action="http://partner.exalead.fr/search/C=0">
+			<div>
+				<input type="hidden" name="2q" value="*" />
+				<input type="hidden" name="siteop" value="include" />
+				<input type="hidden" name="site" value="" />
+				
+				<label for="q">Rechercher&nbsp;:</label>
+				<input type="text" class="text" name="q" id="q" size="10" maxlength="255" value="Saisir le(s) mot(s)" onfocus="this.value='';" />
+				<input type="image" src="squelettes-dist/rechercher.gif" class="submit" value="" />			
+			</div>
+		</form>
+	</div>
+</div>
+";s:9:"squelette";s:37:"html_06849b6b0c5bc41296dab8f5c1f80c1e";s:6:"source";s:67:"plugins/sarkaspip_31/noisettes/recherche/inc_recherche_exalead.html";s:11:"process_ins";s:4:"html";s:11:"invalideurs";a:1:{s:5:"cache";s:35:"8/noi-rec-exa-fr--fa38be34b988f8f0b";}s:7:"entetes";a:1:{s:12:"X-Spip-Cache";i:86400;}s:5:"duree";i:0;s:5:"notes";s:0:"";s:8:"contexte";a:5:{s:4:"lang";s:2:"fr";s:4:"date";s:19:"2023-05-01 10:33:06";s:12:"date_default";b:1;s:10:"date_redac";s:19:"2023-05-01 10:33:06";s:18:"date_redac_default";b:1;}s:12:"lastmodified";i:1682937186;s:2:"gz";b:0;}
